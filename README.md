@@ -24,3 +24,6 @@ the logs readable, and therefore, would be challanging to debug and
 undestand history. Thus, it is recommended that the team's first
 approach to its commit log should be to agree on a commit message
 convention that defines at least the **"style," "content," and "metadata."**
+
+# Comment by Oluwapelumi Adesiyan
+I agree, this article is very appropriate for this course and I took a lot from it! I learned about git and GitHub through a research project, so the primary __"rule"__ we followed for commit messages was just writing a message that recapped what we had done. Since I didn't know how to properly utilize commit messages, I wrote long and clunky messages that were hard to follow. A lot of my previous commit message look like the before examples. I will definitely use the rules listed in the article, especially the "<em>what</em> and <em>why</em> vs. <em>how</em>" rule. I feel that it will help my teammates, and myself, better understand the evolution of our code.
